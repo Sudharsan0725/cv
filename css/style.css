@@ -679,8 +679,10 @@ textarea{
         height: 210vh;
         margin: 5% 0%;
     }
-    .form-section{
-        display:none;
+}
+@media (max-width:600)
+.form-section{
+        display: none;
     }
 }
 
