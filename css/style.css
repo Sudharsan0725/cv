@@ -679,7 +679,7 @@ textarea{
         height: 210vh;
         margin: 5% 0%;
     }
-    form{
+    .form-section{
         display:none;
     }
 }
