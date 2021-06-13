@@ -668,9 +668,6 @@ textarea{
     .form-container{
         width: 70%;
     }
-    .sixth-section{
-        height: 50vh;
-    }
     .fifth-section{
         height: 190vh;
         margin: 5% 3%;
@@ -680,9 +677,12 @@ textarea{
         margin: 5% 0%;
     }
 }
-@media (max-width:600)
-.form-section{
+@media (max-width:600){
+    .form-section
         display: none;
+    }
+    .sixth-section{
+        height: 50vh;
     }
 }
 
