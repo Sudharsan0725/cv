@@ -661,6 +661,25 @@ textarea{
         
     }
 }
+@media (max-width: 500px){
+    iframe{
+        display: none;
+    }
+    .form-container{
+        width: 70%;
+    }
+    .sixth-section{
+        height: 105vh;
+    }
+    .fifth-section{
+        height: 190vh;
+        margin: 5% 3%;
+    }
+    .fifth-section{
+        height: 210vh;
+        margin: 5% 3%;
+    }
+}
 
 
 /*---------------footer section------------------*/
