@@ -575,7 +575,7 @@ td:hover{
         color: rgb(0, 7, 104);
     }
     .intern ul{
-        margin: 1% 2% 1% 2%;
+        margin: 1% 2% 1% 0%;
     }
     .intern h2{
         margin: 1% 10% 5% 10%;
@@ -689,9 +689,6 @@ textarea{
     .form-container{
         width: 300px;
     }
-    
-
-
 }
 
 /*---------------footer section------------------*/
