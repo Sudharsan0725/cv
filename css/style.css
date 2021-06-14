@@ -677,12 +677,15 @@ textarea{
         margin: 5% 0%;
     }
 }
-@media (max-width:600){
-    .form-section
-        display: none;
+@media (max-width:500){
+    .form-section{
+        width: 300px;
+        margin-left: 2%;
+        margin-right: 0%;
+        display: inline-block;
     }
-    .sixth-section{
-        height: 50vh;
+    .form-container{
+        width: 300px;
     }
 }
 
