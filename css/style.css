@@ -679,13 +679,13 @@ textarea{
 }
 @media (max-width:500){
     .form-section{
-        width: 300px;
+        width: 18.5%;
         margin-left: 2%;
         margin-right: 0%;
         display: inline-block;
     }
     .form-container{
-        width: 300px;
+        width: 16%;
     }
 }
 
