@@ -680,7 +680,7 @@ textarea{
 @media (max-width:500){
     .form-section{
         width: 18.5%;
-        margin-left: 2%;
+        margin-left: 0%;
         margin-right: 0%;
         display: inline-block;
     }
