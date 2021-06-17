@@ -287,7 +287,7 @@ td:hover{
     color: #08e2ffec;
     background: #28282B;
     margin: 5% 20%;
-    height: 95vh;
+    height: 85vh;
     box-shadow: 15px 15px 7px grey;
     border: 2px solid #08e2ffec;
     border-radius: 10px;
@@ -325,8 +325,7 @@ td:hover{
     border-radius: 20px;
     border: 1px solid black;
  }
-.html-bar, .css-bar, .bootstrap-bar, .javascript-bar, 
-.react-bar, .creo-bar, .cnc-bar, .leadership-bar, 
+.html-bar, .css-bar, .bootstrap-bar,.creo-bar, .cnc-bar, .leadership-bar, 
 .team-bar, .adaptability-bar{
     text-align: center;
     font-weight: bolder;
@@ -345,19 +344,9 @@ td:hover{
     width: 80%;
     background-color: #08e2ffec;
 }
-.javascript-bar{
-    border: 1px solid #08e2ffec;
-    width: 15%;
-    background-color: #08e2ffec;
-}
 .bootstrap-bar{
     border: 1px solid #08e2ffec;
     width: 50%;
-    background-color: #08e2ffec;
-}
-.react-bar{
-    border: 1px solid #08e2ffec;
-    width: 15%;
     background-color: #08e2ffec;
 }
 .creo-bar{
@@ -375,7 +364,6 @@ td:hover{
     width: 99.99%;
     background-color: #08e2ffec;
 }
-
 .team-bar{
     border: 1px solid #08e2ffec;
     width: 99.99%;
